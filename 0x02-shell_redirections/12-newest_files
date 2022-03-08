@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head
+ls -lRa | ./12-newest_file
