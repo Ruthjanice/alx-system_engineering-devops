@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | ./12-newest_file
+ls -l | ./12-newest_files
